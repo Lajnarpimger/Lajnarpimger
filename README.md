@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lajnarpimger
 - 👀 I’m interested in music
-- 🌱 I’m currently learning webdev
+- 🌱 I’m currently learning webdev, data science and basic machine learning
 - 📫 Reach me @[instagram](https://www.instagram.com/pranjalregmi/)
 <!-- - 💞️ I’m looking to collaborate on ...-->
 <!-- - 😄 Pronouns: ...
